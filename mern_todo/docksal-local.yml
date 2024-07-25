@@ -1,0 +1,6 @@
+version: "2.1"
+
+services:
+  cli:
+    environment:
+      - NODE_ENV=development
